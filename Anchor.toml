@@ -1,11 +1,11 @@
-[programs.localnet]
-buildspacesolana = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
+[programs.devnet]
+buildspacesolana = "5Hu4WDZ6bJQoa4d4yvhD4UgPFc7jWqkBePQ1QCnGjsHM"
 
 [registry]
 url = "https://anchor.projectserum.com"
 
 [provider]
-cluster = "localnet"
+cluster = "devnet"
 wallet = "/home/rahul/.config/solana/id.json"
 
 [scripts]
